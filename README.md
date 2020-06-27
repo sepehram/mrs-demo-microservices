@@ -1,6 +1,7 @@
 # mrs-demo-microservices
-Demo Microservices-based medical records system (MRS). It is a Java Spring Boot project, being used as the source web application for audit logging instrumentation.
+Demo Microservices-based medical records system (MRS) 
 
+It is a Java Spring Boot project, being used as the source web application for audit logging instrumentation.
 The application consits of three Microservices (MS):
 1. Authentication MS: is a demo of an application front-end that handles user login (hardcoded), and multiplexes user requests to other MSs. It runs on local port 8040.
 
